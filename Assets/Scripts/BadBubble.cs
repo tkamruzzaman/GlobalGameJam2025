@@ -18,6 +18,8 @@ public class BadBubble : MonoBehaviour
     private bool isWarning;
     private bool isExploded;
     private bool isConsumed;
+    public AudioClip consumedSound;
+    private PlayerController player;
 
     private void Start()
     {
@@ -25,6 +27,7 @@ public class BadBubble : MonoBehaviour
         originalColor = spriteRenderer.color;
         currentScale = Vector3.one * initialSize;
         transform.localScale = currentScale;
+        player = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>();
     }
 
     private void Update()
@@ -69,6 +72,7 @@ public class BadBubble : MonoBehaviour
         isConsumed = true;
         ConsumeEffect();
         Destroy(gameObject);
+        player.PlaySound(consumedSound);
     }
 
     private void ConsumeEffect()

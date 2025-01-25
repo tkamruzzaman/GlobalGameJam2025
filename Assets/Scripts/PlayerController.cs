@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
     private Vector2 currentVelocity;
     private Rigidbody2D rb;
     private Collider2D playerCollider;
+    public AudioSource audioSource;
 
     [Header("Physics Layers")]
     [SerializeField] private LayerMask badBubbleLayer;
@@ -27,6 +28,7 @@ public class PlayerController : MonoBehaviour
         rb.bodyType = RigidbodyType2D.Dynamic;
 
         playerCollider = GetComponent<Collider2D>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     private void Update()
@@ -68,6 +70,11 @@ public class PlayerController : MonoBehaviour
                 GameManager.Instance.UpdateScore();
             }
         }
+    }
+
+    public void PlaySound(AudioClip clip)
+    {
+        audioSource.PlayOneShot(clip);
     }
 
 
