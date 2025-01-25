@@ -6,16 +6,16 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance;
 
     [field: SerializeField]
-    public int Score{get; private set;}
+    public int Score { get; private set; }
 
-    private void Awake() 
+    private void Awake()
     {
-        if(Instance == null){  Instance = this; }
+        if (Instance == null) { Instance = this; }
 
         Score = 0;
     }
 
-    public void UpdateScore(int amount)
+    public void UpdateScore(int amount = 1)
     {
         Score += amount;
     }
