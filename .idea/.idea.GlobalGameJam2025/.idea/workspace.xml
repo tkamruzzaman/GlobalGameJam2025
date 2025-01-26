@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9745f2d0-a358-4f3f-9824-45dfdc0d5504" name="Changes" comment="Add &quot;bubbling up&quot; sound to BadBubble gameobject w/spatialized sound">
+    <list default="true" id="9745f2d0-a358-4f3f-9824-45dfdc0d5504" name="Changes" comment="Add images to bubbles and adjust badbubble max size">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalGameJam2025/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalGameJam2025/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/New Tile Palette.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/New Tile Palette.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/BadBubble.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/BadBubble.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +36,8 @@
     <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Art/New Tile Palette.prefab" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Prefabs/BadBubble.prefab" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Prefabs/BadBubble.prefab" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Prefabs/BadBubble.prefab" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Scenes/Game.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Scenes/Game.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Scenes/Game.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Scenes/Game.unity" root0="SKIP_HIGHLIGHTING" />
@@ -173,7 +172,21 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1737839269444</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="Added environment tiles and colors to bubbles">
+      <option name="closed" value="true" />
+      <created>1737886930625</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1737886930625</updated>
+    </task>
+    <task id="LOCAL−00008" summary="Add images to bubbles and adjust badbubble max size">
+      <option name="closed" value="true" />
+      <created>1737889305928</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1737889305928</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +219,8 @@
     <MESSAGE value="These are automatic changes, not sure if we need to include them" />
     <MESSAGE value="Add files for possible sound effects" />
     <MESSAGE value="Add &quot;bubbling up&quot; sound to BadBubble gameobject w/spatialized sound" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add &quot;bubbling up&quot; sound to BadBubble gameobject w/spatialized sound" />
+    <MESSAGE value="Added environment tiles and colors to bubbles" />
+    <MESSAGE value="Add images to bubbles and adjust badbubble max size" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add images to bubbles and adjust badbubble max size" />
   </component>
 </project>
