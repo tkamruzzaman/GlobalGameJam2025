@@ -380,7 +380,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6254511643183485677, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: growthRate
-      value: 0.02
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6590078250842775320, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: m_Name
@@ -978,7 +978,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6254511643183485677, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: growthRate
-      value: 0.02
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6590078250842775320, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: m_Name
@@ -1485,7 +1485,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6254511643183485677, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: growthRate
-      value: 0.02
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6590078250842775320, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: m_Name
@@ -1546,7 +1546,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6254511643183485677, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: growthRate
-      value: 0.02
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6590078250842775320, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: m_Name
@@ -1607,7 +1607,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6254511643183485677, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: growthRate
-      value: 0.02
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6590078250842775320, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: m_Name
@@ -1668,7 +1668,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6254511643183485677, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: growthRate
-      value: 0.02
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6590078250842775320, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: m_Name
@@ -8269,10 +8269,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6254511643183485677, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
-      propertyPath: growthRate
-      value: 0.02
-      objectReference: {fileID: 0}
     - target: {fileID: 6590078250842775320, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: m_Name
       value: BadBubble (1)
@@ -8800,7 +8796,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6254511643183485677, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: growthRate
-      value: 0.02
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6590078250842775320, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: m_Name
@@ -8994,7 +8990,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6254511643183485677, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: growthRate
-      value: 0.02
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6590078250842775320, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: m_Name
@@ -9134,7 +9130,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6254511643183485677, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: growthRate
-      value: 0.02
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 6590078250842775320, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: m_Name
@@ -9405,10 +9401,6 @@ PrefabInstance:
     - target: {fileID: 4098033949417992139, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6254511643183485677, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
-      propertyPath: growthRate
-      value: 0.02
       objectReference: {fileID: 0}
     - target: {fileID: 6590078250842775320, guid: f08e9142d30d646ecb6ee13164073a74, type: 3}
       propertyPath: m_Name
