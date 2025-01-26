@@ -66,8 +66,8 @@ public class PlayerController : MonoBehaviour
             if (badBubble != null)
             {
                 print("BAD");
-                badBubble.ConsumeByPlayer();
                 GameManager.Instance.UpdateScore();
+                badBubble.ConsumeByPlayer();
             }
         }
     }
