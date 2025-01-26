@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mind_bubble_logo_0: -8127034742849853812
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
