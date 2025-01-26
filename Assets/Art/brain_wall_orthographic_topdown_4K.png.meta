@@ -1,0 +1,1247 @@
+fileFormatVersion: 2
+guid: a108f71378d174e40abf3ea6800eb3f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7028271110580846503
+    second: brain_wall_orthographic_topdown_4K_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2572
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a16bc67e356b445a6a93b005de29ea
+      internalID: 1363913926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_1
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2572
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31bd1dacfc8fe1469311ba0db3487f7
+      internalID: 1558330816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_2
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2572
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb14dda107aa81a449e3b9de333cc3b7
+      internalID: -1153840143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_3
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 2572
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cbdc17e1297df47a800a4ff19b4a4e
+      internalID: 961458912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_4
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 2572
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501dae79885028b408b77bb3a2f509a0
+      internalID: -1572575589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_5
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2572
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c2e1ad23805164dbd8844b5a50e8a9
+      internalID: 21668759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_6
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 2572
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76b7c4681cce604d9fa67bbe7ef4265
+      internalID: 526570049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2144
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7083c8ffdc90c9144822fdaeadc3a19f
+      internalID: 928364808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2144
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741a17fc1a51615458ffec13595b7655
+      internalID: 260940190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_9
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2144
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b8ce321ab333a43b342d21240731dc
+      internalID: 540151777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_10
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 2144
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a548487961456384383b4bac30b1eeee
+      internalID: -781998520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_11
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 2144
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbdead6b4198fa43b0b97b1dc770d0f
+      internalID: -120344286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_12
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2144
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce17ab973081abf46a4fd7bd42e4fef2
+      internalID: -1402406539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_13
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 2144
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8269b40c9c2e0d94b936fd271ff5686b
+      internalID: -1632400849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1716
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa84589cd2a4654c8d46aa2118fc066
+      internalID: 271812675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_15
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1716
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aff56dd9cf785f499cc9396d7cccc42
+      internalID: 968379961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_16
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1716
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c7b1005bde45c4488ee251ed88916b
+      internalID: 1923383282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_17
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1716
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d0f5b0f09bb1143b361822186e3f52
+      internalID: -588239618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_18
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1716
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b59d2004970e54692818eeda75ab0c
+      internalID: 1677673695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_19
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 1716
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69cd832cbf35894ea320b8a314b7aa2
+      internalID: -1794114341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_20
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 1716
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6503792d7c4a6af4286db5928605c298
+      internalID: -41307917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1288
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7cfe48b63d7c44f9c9e3369a552ecd
+      internalID: 2129335391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_22
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1288
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2052ca7447058db47b5eab4e755b5a22
+      internalID: -208873606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_23
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1288
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8a76c33e1ad7f4ba9d5d348bce4688
+      internalID: 1253259411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_24
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1288
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb239ab9748aed43a0c900f8333975c
+      internalID: 1767618838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_25
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1288
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e95521a2cf54347bc10f23b65f45eb
+      internalID: -479345303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_26
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 1288
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1961805f185fdfe4b889d741e4ac5c60
+      internalID: 2100377397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_27
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 1288
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a3f73303c65de41ab9365b9262e5c1
+      internalID: 483067845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cf3592c3887ce4ab6cedcc8bdd09a9
+      internalID: 645923160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 860
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da186c16043f1147b593c59389a517a
+      internalID: -843204917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_30
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 860
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a69664a6e339a498ddff924e5a7b1f
+      internalID: -831782170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_31
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 860
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b139d47a3c293e44bb3742b3527ed056
+      internalID: 1559116878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_32
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 860
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4a53b5bda0c224e99673b5717ebdda
+      internalID: 1188158557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_33
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 860
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff83bab88c52ee4688f9a6513676e86
+      internalID: 1656715420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_34
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 860
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a2725db31d79f46a6bb63a50d863b8
+      internalID: 45290775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311da8be3cd6f334ba570653ebd4b1a6
+      internalID: 1245259133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_36
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 432
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea4be2392dd3b34c919dcbb8f956f90
+      internalID: -1468337508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_37
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 432
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43716294881e0b42b00ef2fcda2175d
+      internalID: -1328877917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_38
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 432
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5c395e7f88bdd4ba983d62db65495e
+      internalID: 1682873414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_39
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 432
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4185be980d5e0847aec18716d62449e
+      internalID: -994819750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_40
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 432
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0783039413911c44b9b76aea2bb9c23c
+      internalID: 600010796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_41
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 432
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ebf2dbb2e6bab4fbc0c868e97d647e
+      internalID: 786375115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8faca759ede9b443a336c729ec499a5
+      internalID: 76014052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_43
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 4
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e808f06c1ef2047b22203cbd65d6e5
+      internalID: -296148720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_44
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 4
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6eebede541db64192c17436c326946
+      internalID: -1984438863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_45
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 4
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530913cfc442c4a468f1797a31be853c
+      internalID: -1494087616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_46
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 4
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecad540d99713a4d876466282854101
+      internalID: -781313847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_47
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 4
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8658e83440ddde14cbc587f9e34ffcdd
+      internalID: -1351054114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brain_wall_orthographic_topdown_4K_48
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 4
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c984a993257c001419ef28f24a174de9
+      internalID: 1013337839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c5d9e77bdebce5b4a889f0e0ddae5c62
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      brain_wall_orthographic_topdown_4K_0: 1363913926
+      brain_wall_orthographic_topdown_4K_1: 1558330816
+      brain_wall_orthographic_topdown_4K_10: -781998520
+      brain_wall_orthographic_topdown_4K_11: -120344286
+      brain_wall_orthographic_topdown_4K_12: -1402406539
+      brain_wall_orthographic_topdown_4K_13: -1632400849
+      brain_wall_orthographic_topdown_4K_14: 271812675
+      brain_wall_orthographic_topdown_4K_15: 968379961
+      brain_wall_orthographic_topdown_4K_16: 1923383282
+      brain_wall_orthographic_topdown_4K_17: -588239618
+      brain_wall_orthographic_topdown_4K_18: 1677673695
+      brain_wall_orthographic_topdown_4K_19: -1794114341
+      brain_wall_orthographic_topdown_4K_2: -1153840143
+      brain_wall_orthographic_topdown_4K_20: -41307917
+      brain_wall_orthographic_topdown_4K_21: 2129335391
+      brain_wall_orthographic_topdown_4K_22: -208873606
+      brain_wall_orthographic_topdown_4K_23: 1253259411
+      brain_wall_orthographic_topdown_4K_24: 1767618838
+      brain_wall_orthographic_topdown_4K_25: -479345303
+      brain_wall_orthographic_topdown_4K_26: 2100377397
+      brain_wall_orthographic_topdown_4K_27: 483067845
+      brain_wall_orthographic_topdown_4K_28: 645923160
+      brain_wall_orthographic_topdown_4K_29: -843204917
+      brain_wall_orthographic_topdown_4K_3: 961458912
+      brain_wall_orthographic_topdown_4K_30: -831782170
+      brain_wall_orthographic_topdown_4K_31: 1559116878
+      brain_wall_orthographic_topdown_4K_32: 1188158557
+      brain_wall_orthographic_topdown_4K_33: 1656715420
+      brain_wall_orthographic_topdown_4K_34: 45290775
+      brain_wall_orthographic_topdown_4K_35: 1245259133
+      brain_wall_orthographic_topdown_4K_36: -1468337508
+      brain_wall_orthographic_topdown_4K_37: -1328877917
+      brain_wall_orthographic_topdown_4K_38: 1682873414
+      brain_wall_orthographic_topdown_4K_39: -994819750
+      brain_wall_orthographic_topdown_4K_4: -1572575589
+      brain_wall_orthographic_topdown_4K_40: 600010796
+      brain_wall_orthographic_topdown_4K_41: 786375115
+      brain_wall_orthographic_topdown_4K_42: 76014052
+      brain_wall_orthographic_topdown_4K_43: -296148720
+      brain_wall_orthographic_topdown_4K_44: -1984438863
+      brain_wall_orthographic_topdown_4K_45: -1494087616
+      brain_wall_orthographic_topdown_4K_46: -781313847
+      brain_wall_orthographic_topdown_4K_47: -1351054114
+      brain_wall_orthographic_topdown_4K_48: 1013337839
+      brain_wall_orthographic_topdown_4K_5: 21668759
+      brain_wall_orthographic_topdown_4K_6: 526570049
+      brain_wall_orthographic_topdown_4K_7: 928364808
+      brain_wall_orthographic_topdown_4K_8: 260940190
+      brain_wall_orthographic_topdown_4K_9: 540151777
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
