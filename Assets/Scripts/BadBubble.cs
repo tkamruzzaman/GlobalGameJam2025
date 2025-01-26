@@ -59,6 +59,7 @@ public class BadBubble : MonoBehaviour
     {
         isExploded = true;
         SpawnExplosionEffect();
+        Dead();
         Destroy(gameObject);
     }
 
@@ -71,6 +72,7 @@ public class BadBubble : MonoBehaviour
     {
         isConsumed = true;
         ConsumeEffect();
+        Dead();
         Destroy(gameObject);
         player.PlaySound(consumedSound);
     }
@@ -78,5 +80,10 @@ public class BadBubble : MonoBehaviour
     private void ConsumeEffect()
     {
         //TODO
+    }
+
+    private void Dead()
+    {
+        GameManager.Instance.RemoveFromBubbleList(this);
     }
 }
