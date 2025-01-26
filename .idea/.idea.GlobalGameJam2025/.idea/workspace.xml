@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9745f2d0-a358-4f3f-9824-45dfdc0d5504" name="Changes" comment="" />
+    <list default="true" id="9745f2d0-a358-4f3f-9824-45dfdc0d5504" name="Changes" comment="Add files for possible sound effects" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Scenes" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,9 +32,6 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Scenes/Game.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Scenes/Menu.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/ProjectSettings/EditorBuildSettings.asset" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/ProjectSettings/ShaderGraphSettings.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Unity/Create with Code/Prototype 5/Assets/Course Library/_Source_Files/Scripts/GameManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Unity/Unity Pathways/Junior-Programmer-Starter-Files/Junior-Programmer-Starter-Files/Assets/Scripts/SceneExitUIHandler.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -51,6 +48,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Environment",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -113,6 +111,7 @@
       <updated>1737810209919</updated>
       <workItem from="1737810211104" duration="224000" />
       <workItem from="1737810834105" duration="4481000" />
+      <workItem from="1737817015307" duration="1664000" />
     </task>
     <task id="LOCAL−00001" summary="Add UI to scenes and buttons to change between them">
       <option name="closed" value="true" />
@@ -128,7 +127,28 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1737813934087</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Add audio source and file for background music">
+      <option name="closed" value="true" />
+      <created>1737817088373</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1737817088373</updated>
+    </task>
+    <task id="LOCAL−00004" summary="These are automatic changes, not sure if we need to include them">
+      <option name="closed" value="true" />
+      <created>1737817111104</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1737817111104</updated>
+    </task>
+    <task id="LOCAL−00005" summary="Add files for possible sound effects">
+      <option name="closed" value="true" />
+      <created>1737817928813</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1737817928813</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +177,9 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Add UI to scenes and buttons to change between them" />
     <MESSAGE value="These canges are mostly automatic, should we include them too?" />
-    <option name="LAST_COMMIT_MESSAGE" value="These canges are mostly automatic, should we include them too?" />
+    <MESSAGE value="Add audio source and file for background music" />
+    <MESSAGE value="These are automatic changes, not sure if we need to include them" />
+    <MESSAGE value="Add files for possible sound effects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add files for possible sound effects" />
   </component>
 </project>
