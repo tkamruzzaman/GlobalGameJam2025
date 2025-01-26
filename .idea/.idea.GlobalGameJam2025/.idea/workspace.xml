@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9745f2d0-a358-4f3f-9824-45dfdc0d5504" name="Changes" comment="Add &quot;bubbling up&quot; sound to BadBubble gameobject w/spatialized sound">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GlobalGameJam2025/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GlobalGameJam2025/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/New Tile Palette.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/New Tile Palette.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/BadBubble.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/BadBubble.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BadBubble.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BadBubble.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +36,20 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Art/New Tile Palette.prefab" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Prefabs/BadBubble.prefab" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Prefabs/BadBubble.prefab" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Scenes/Game.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Scenes/Game.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Scenes/Game.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Scenes/Game.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Scenes/Game.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Scripts/BadBubble.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/Assets/Scripts/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/nikot/RiderProjects/GlobalGameJam2025/ProjectSettings/TagManager.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Unity/Create with Code/2D Beginner Adventure GAme/Assets/Scripts/HealthCollectible.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Unity/Create with Code/Prototype 4/Assets/Challenge 4/Scripts/PlayerControllerX.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Unity/Create with Code/Prototype 4/Assets/Scripts/SpawnManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Unity/Create with Code/Prototype 5/Assets/Course Library/_Source_Files/Scripts/GameManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Unity/Unity Pathways/Junior-Programmer-Starter-Files/Junior-Programmer-Starter-Files/Assets/Scripts/SceneExitUIHandler.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -58,7 +66,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Sound&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Environment&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
