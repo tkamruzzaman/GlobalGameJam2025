@@ -6,6 +6,8 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
 
+    public static bool isGameOver;
+
     [field: SerializeField]
     public int Score { get; private set; }
 
@@ -21,10 +23,9 @@ public class GameManager : MonoBehaviour
     private void Awake()
     {
         if (Instance == null) { Instance = this; }
-
         Score = 0;
-
         gameoverPanel.gameObject.SetActive(false);
+        isGameOver = false;
     }
 
     private void Start()

@@ -61,6 +61,7 @@ public class BadBubble : MonoBehaviour
         SpawnExplosionEffect();
         Dead();
         Destroy(gameObject);
+        GameManager.Instance.ShowGameOver(false);
     }
 
     private void SpawnExplosionEffect()
